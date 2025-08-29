@@ -1,5 +1,5 @@
 {
- "scripts": {
+  "scripts": {
     "start": "node main.js",
     "dev": "nodemon main.js",
     "build": "echo 'No build step required'",
@@ -15,5 +15,17 @@
     "mongodb": "^6.18.0",
     "mongoose": "^8.17.1",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranishaaaa/Library-Management-System-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranishaaaa/Library-Management-System-backend.git/issues"
+  },
+  "homepage": "https://github.com/pranishaaaa/Library-Management-System-backend.git#readme",
+  "description": ""
 }
