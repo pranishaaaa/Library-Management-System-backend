@@ -1,10 +1,7 @@
 {
   "scripts": {
-    "start": "node main.js",
-    "dev": "nodemon main.js",
-    "build": "echo 'No build step required'",
-    "render-postbuild": "echo 'Postbuild step for Render'",
-    "help": "npm run | grep -E 'start|dev|build|render-postbuild|help'"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
@@ -29,3 +26,4 @@
   "homepage": "https://github.com/pranishaaaa/Library-Management-System-backend.git#readme",
   "description": ""
 }
+
